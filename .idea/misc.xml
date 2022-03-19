@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="SpatiuToaster/src/main/res/drawable/error_icon.xml" value="0.142" />
+        <entry key="SpatiuToaster/src/main/res/drawable/error_toast_shape.xml" value="0.142" />
+        <entry key="SpatiuToaster/src/main/res/drawable/success_toast_shape.xml" value="0.142" />
+        <entry key="SpatiuToaster/src/main/res/drawable/toast_shape.xml" value="0.142" />
+        <entry key="SpatiuToaster/src/main/res/drawable/waiting_toast_shape.xml" value="0.142" />
+        <entry key="SpatiuToaster/src/main/res/drawable/warning_toast_shape.xml" value="0.142" />
+        <entry key="SpatiuToaster/src/main/res/drawable/wering_toast_shape.xml" value="0.142" />
+        <entry key="SpatiuToaster/src/main/res/layout/error_toast_layout.xml" value="0.19375" />
+        <entry key="SpatiuToaster/src/main/res/layout/success_toast_layout.xml" value="0.25" />
+        <entry key="SpatiuToaster/src/main/res/layout/toast_layout.xml" value="0.19375" />
+        <entry key="SpatiuToaster/src/main/res/layout/waiting_toast_layout.xml" value="0.19375" />
+        <entry key="SpatiuToaster/src/main/res/layout/wering_toast_layout.xml" value="0.19375" />
+        <entry key="app/src/main/res/drawable/toast_shape.xml" value="0.142" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/toast_layout.xml" value="0.19375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
