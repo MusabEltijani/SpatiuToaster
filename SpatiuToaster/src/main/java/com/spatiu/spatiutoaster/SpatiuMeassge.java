@@ -8,7 +8,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class SpatiuMeassge {
+public  class SpatiuMeassge {
 
     private static final int SUCCESS = 1;
     private static final int ERROR = 2;
