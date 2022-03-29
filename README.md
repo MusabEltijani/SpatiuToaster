@@ -5,6 +5,8 @@
        Alerts Library for android developer ( Java | Kotlin )
        
   
+  [![](https://jitpack.io/v/MusabEltijani/SpatiuToaster.svg)](https://jitpack.io/#MusabEltijani/SpatiuToaster)
+  
 #### Implementation
      
      Step 1. Add the JitPack repository to your build file
