@@ -15,34 +15,38 @@
     android:background="@drawable/waiting_toast_shape">
 
 
-
-    <ImageView
-        android:id="@+id/icon"
-        android:layout_width="40dp"
-        android:layout_height="40dp"
-        android:layout_margin="15dp"
-        android:padding="3dp"
-        android:src="@drawable/waiting_icon"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintEnd_toStartOf="@id/message"/>
-
-    <TextView
-        android:id="@+id/message"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginStart="30dp"
-        android:paddingEnd="20dp"
-        android:paddingStart="20dp"
-        android:paddingBottom="5dp"
-        android:paddingTop="5dp"
-        android:textColor="@color/white"
-        android:textSize="15dp"
-        android:text="@string/fab_transformation_scrim_behavior"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:orientation="horizontal"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toEndOf="@id/icon"/>
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
 
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_margin="5dp"
+            android:padding="3dp"
+            android:src="@drawable/waiting_icon"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/message"/>
+
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingEnd="10dp"
+            android:paddingStart="10dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:textColor="@color/white"
+            android:textSize="15dp"
+            android:layout_gravity="center"
+            android:text="@string/fab_transformation_sheet_behavior"/>
+    </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

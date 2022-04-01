@@ -14,6 +14,7 @@
         <entry key="SpatiuToaster/src/main/res/layout/success_toast_layout.xml" value="0.25" />
         <entry key="SpatiuToaster/src/main/res/layout/toast_layout.xml" value="0.19375" />
         <entry key="SpatiuToaster/src/main/res/layout/waiting_toast_layout.xml" value="0.19375" />
+        <entry key="SpatiuToaster/src/main/res/layout/warning_toast_layout.xml" value="0.2390625" />
         <entry key="SpatiuToaster/src/main/res/layout/wering_toast_layout.xml" value="0.19375" />
         <entry key="app/src/main/res/drawable/toast_shape.xml" value="0.142" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19375" />
