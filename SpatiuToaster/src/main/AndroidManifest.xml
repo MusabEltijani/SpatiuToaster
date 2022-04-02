@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.spatiu.spatiutoaster">
+
+
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="31"
+        tools:ignore="GradleOverrides" />
+
+    <application android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        tools:targetApi="p" />
 
 </manifest>
