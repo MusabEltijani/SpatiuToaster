@@ -1,8 +1,10 @@
-# SpatiuToaster
+### SpatiuToaster
  
  #### Description
 
        Alerts Library for android developer ( Java | Kotlin )
+       ![Spatuo Toaster](https://user-images.githubusercontent.com/53666445/162853794-f23cf120-cd33-44c3-8504-5d9b289781db.png)
+
        
   
   [![](https://jitpack.io/v/MusabEltijani/SpatiuToaster.svg)](https://jitpack.io/#MusabEltijani/SpatiuToaster)
